@@ -92,6 +92,7 @@ a{
 section{
   position: relative;
   align-items: center;
+  justify-content: center;
   width: 100%;
   background-color: #151515;
 
@@ -157,6 +158,8 @@ section .container > *{
     rgba(0,0,0, 0.9),
     rgba(253, 253, 253, 0.733)
     );
+  align-items: center;
+  justify-content: center;
 }
 
 #videos{
@@ -166,6 +169,8 @@ section .container > *{
     rgba(253, 253, 253, 0.733),
     rgba(78, 105, 255, 0.9)    
     );
+  align-items: center;
+  justify-content: center;
 
 }
 
