@@ -178,11 +178,17 @@ section .container > *{
   .big-text{
     font-size: 5rem;
   }
-  section .container{
+  #mensaje .container{
     padding: 0;
+    margin: 0;
   }
-  .content .text{
+  .text{
     font-size: 2rem;
   }
+  #videos .container{
+    padding: 0;
+    margin: 0;
+  }
+    
   
 }
