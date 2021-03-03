@@ -176,10 +176,13 @@ section .container > *{
     grid-template-columns: 1fr;
   }
   .big-text{
-    text-size: 5rem;
+    text-size: 7rem;
   }
   section .container{
     padding: 0;
+  }
+  .content .text{
+    text-size: 2rem;
   }
   
 }
