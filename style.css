@@ -175,5 +175,11 @@ section .container > *{
   #videos .container{
     grid-template-columns: 1fr;
   }
+  .big-text{
+    text-size: 3rem;
+  }
+  section .container{
+    padding: 1rem;
+  }
   
 }
