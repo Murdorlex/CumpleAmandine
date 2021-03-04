@@ -114,7 +114,7 @@ section .container > *{
   margin: 3rem;
 }
 
-.content .text{
+.text{
   font-size: 3rem;
   color: #fff;
   font-weight: 600;
@@ -191,13 +191,4 @@ section .container > *{
   #videos .container{
     grid-template-columns: 1fr;
   }
-  .big-text{
-    font-size: 5rem;
-  }
-   
-  .text{
-    font-size: 3rem;
-  }
-    
-  
-}
+ }
