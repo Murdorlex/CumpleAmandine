@@ -122,7 +122,7 @@ section .container > *{
 }
 .title{
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 3rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   position: relative;
@@ -161,7 +161,7 @@ section .container > *{
 
 #fotos{
   
-    min-height: 80vh;
+    
     width: 100%;
     background: linear-gradient(
       to bottom, rgb(148 159 146), rgba(255,255,255,0.3)
